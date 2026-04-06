@@ -1,10 +1,10 @@
-# 🤖 Knight Bot
+# 🤖 MR JAVA BOT
 
 This is a WhatsApp bot built using the Baileys library for group management, including features like tagging all members, muting/unmuting, and many more. It's designed to help admins efficiently manage WhatsApp groups.
 
 <div align="center"> 
   <a href="https://git.io/typing-svg"> 
-    <img src="https://readme-typing-svg.demolab.com?font=Ribeye&size=50&pause=1000&color=33ff00&center=true&width=910&height=100&lines=Knight-Bot;Multi+Device+Whatsapp+Bot;Coded+By+Faizan" alt="Typing SVG" />
+    <img src="https://img.freepik.com/premium-vector/isometric-robot-bot-interface-artificial-intelligence-concept-technology-engineering_178863-2152.jpg;Multi+Device+Whatsapp+Bot;Coded+By+Faizan" alt="Typing SVG" />
   </a> 
 </div> 
 
